@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Vircon
 
-You can use the [editor on GitHub](https://github.com/projetopbj/vircon/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Nosso projeto consiste em um aplicativo mobile capaz de controlar componentes utilizando a câmera do celular. O software reconhece os objetos (uma lâmpada, por exemplo), e através do aparelho celular é possível controlar a intensidade da lâmpada, ligá-la ou desligá-la.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+O objetivo do projeto é promover acessibilidade e praticidade ao usuário final, transformando o celular em um "controle universal".
 
-### Markdown
+### Nosso modelo de negócio
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Clique aqui para visualizar](https://github.com/projetopbj/vircon/canvas.pdf).
 
-```markdown
-Syntax highlighted code block
+### Mockups
 
-# Header 1
-## Header 2
-### Header 3
+[Clique aqui para visualizar](https://github.com/projetopbj/vircon/mockups.pdf).
 
-- Bulleted
-- List
+### Diagrama de Caso de Uso/Diagrama de Classe
 
-1. Numbered
-2. List
+[Clique aqui para visualizar](https://github.com/projetopbj/vircon/diagramas.pdf).
 
-**Bold** and _Italic_ and `Code` text
+### Protótipo Funcional
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/projetopbj/vircon/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Nosso aplicativo está disponível para todos, basta acessar [esta página](https://github.com/projetopbj/vircon/app.zip) e instalar no seu smartphone Android.
