@@ -10,11 +10,11 @@ O objetivo do projeto é promover acessibilidade e praticidade ao usuário final
 
 ### Mockups
 
-[Clique aqui para visualizar](https://github.com/projetopbj/vircon/mockups.pdf).
+[Clique aqui para visualizar](https://raw.githubusercontent.com/projetopbj/vircon/master/mockup.PNG).
 
 ### Diagrama de Caso de Uso/Diagrama de Classe
 
-[Clique aqui para visualizar](https://github.com/projetopbj/vircon/diagramas.pdf).
+[Clique aqui para visualizar](https://raw.githubusercontent.com/projetopbj/vircon/master/useCase_ClassDiagram.png).
 
 ### Protótipo Funcional
 
