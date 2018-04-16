@@ -1,5 +1,7 @@
 ## Vircon
 
+![Alt Text](https://raw.githubusercontent.com/projetopbj/vircon/master/logo.png)
+
 Nosso projeto consiste em um aplicativo mobile capaz de controlar componentes utilizando a câmera do celular. O software reconhece os objetos (uma lâmpada, por exemplo), e através do aparelho celular é possível controlar a intensidade da lâmpada, ligá-la ou desligá-la.
 
 O objetivo do projeto é promover acessibilidade e praticidade ao usuário final, transformando o celular em um "controle universal".
