@@ -18,4 +18,4 @@ O objetivo do projeto é promover acessibilidade e praticidade ao usuário final
 
 ### Protótipo Funcional
 
-Nosso aplicativo está disponível para todos, basta acessar [esta página](https://github.com/projetopbj/vircon/app.zip) e instalar no seu smartphone Android.
+Print do nosso aplicativo está disponível para visualização, basta acessar [esta página](https://raw.githubusercontent.com/projetopbj/vircon/master/vircon.png) e instalar no seu smartphone Android.
