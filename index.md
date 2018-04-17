@@ -8,7 +8,7 @@ O objetivo do projeto é promover acessibilidade e praticidade ao usuário final
 
 ### Nosso modelo de negócio
 
-[Clique aqui para visualizar](vircon/canvas.jpg).
+[Clique aqui para visualizar](https://raw.githubusercontent.com/projetopbj/vircon/master/canvas.jpg).
 
 ### Mockups
 
